@@ -1,4 +1,4 @@
-# 📊 Meta Quarterly Performance Dashboard
+# 🌐 Meta Quarterly Performance Dashboard
 
 ## 📌 Overview
 An interactive Excel dashboard analyzing Meta’s advertising and regional revenue metrics on a quarterly basis across global regions — **Asia-Pacific, Europe, US & Canada, and Rest of World**. The tool provides a metric-selector and region filter, allowing focused trend analysis between 2022 and 2023.
