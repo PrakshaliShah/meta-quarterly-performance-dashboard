@@ -45,7 +45,6 @@ An interactive Excel dashboard analyzing Meta’s advertising and regional reven
 ## 📷 Preview
 
 ![Dashboard Preview](preview.png)  
-*(Upload this image in your repo for display)*
 
 ---
 
