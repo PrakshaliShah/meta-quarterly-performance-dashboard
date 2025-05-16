@@ -32,11 +32,6 @@ An interactive Excel dashboard analyzing Meta’s advertising and regional reven
 
 ---
 
-## 📁 Files
-- `Meta_Quarterly_Performance_Dashboard.xlsx`
-
----
-
 ## 🔗 View File  
 [📂 Click here to open the Excel dashboard](https://github.com/prakshalishah/meta-quarterly-performance-dashboard/blob/main/Meta_Quarterly_Performance_Dashboard.xlsx)
 
@@ -44,8 +39,4 @@ An interactive Excel dashboard analyzing Meta’s advertising and regional reven
 
 ## 📷 Preview
 
-![Dashboard Preview](preview.png)  
-
----
-
-📫 [Connect with me on LinkedIn](https://linkedin.com/in/prakshalishah)
+![Dashboard Preview](preview.png) 
